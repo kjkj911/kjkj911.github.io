@@ -1,20 +1,14 @@
 [![kjkj911](https://img.shields.io/badge/kjkj911-github-blue?logo=github)](https://github.com/kjkj911)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+研究生在读
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2417172657@qq.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**东北财经大学**, 金融专硕 (2024.09 – 2026.06) 
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**山东工商学院**, 金融科技 (2019.09 – 2023.06)   
 
 #### Research Interests  
-XX, XX, XX, XX.
+证券投资、 金融风险管理、 金融科技
