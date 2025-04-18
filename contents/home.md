@@ -12,3 +12,6 @@
 
 #### Research Interests  
 证券投资、 金融风险管理、 金融科技
+
+#### Hobbies  
+古筝、 动漫、 熬夜
