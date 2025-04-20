@@ -1,4 +1,4 @@
-[![kjkj911](https://img.shields.io/badge/kjkj911-github-blue?logo=github)](https://github.com/kjkj911)
+[![kjkj911](https://img.shields.io/badge/kjkj911-github-pink?logo=github)](https://github.com/kjkj911)
 
 研究生在读
 
