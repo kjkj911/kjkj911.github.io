@@ -1,2 +1,2 @@
 - 《金融科技赋能“保险+期货”对农业产业链创新发展的影响研究》毕业论文（本科）
- ![](static/assets/img/1.jpg =600x600)
+ ![](static/assets/img/1.jpg=200x200)
